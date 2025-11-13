@@ -1,79 +1,83 @@
-🌟 Neha Chaudhary
-Full-Stack MERN Developer | React Enthusiast | B.Tech CSE (AKTU)
+<!-- Banner -->
 
-Hi! I'm Neha, a passionate full-stack developer building projects using React, Node.js, Express, and MongoDB.
-I love creating modern UI, exploring backend architecture, and pushing real projects to GitHub while learning new technologies every day.
+---
 
-🚀 Tech Stack
-Frontend
+<h1 align="center">Hey there, I'm Neha Chaudhary 👋</h1>
+<h3 align="center">🚀 MERN Stack Developer | React Enthusiast | Full-Stack Learner</h3>
 
-⚛️ React.js (Hooks, Routing, Context API, Advanced Concepts)
+---
 
-🎨 Tailwind CSS, CSS3
+<p align="center">
+  <img src="https://i.imgur.com/DPVM1yO.gif" width="800" alt="banner" />
+</p>
 
-🔄 Axios, React Query
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NehaChaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="NehaChaudhary" />
+</p>
 
-Backend
+---
 
-🟢 Node.js, Express.js
+### 🧠 About Me
 
-🗄️ MongoDB, Mongoose
+- 🌱 B.Tech 6th Semester — AKTU  
+- 💻 Currently mastering **React**, **Node.js**, **Express**, **MongoDB**
+- 🎬 Building full-stack projects like **Movie App**, **Shopping Website**, **Auth System**
+- 🔥 Learning **advanced React**, routing, optimization & backend architecture  
+- 🎯 Goal: Build real MERN products & land a good developer role  
+- 💬 Ask me about **React, Tailwind, Axios, MERN, APIs, Routing, Auth**
+- 📫 Reach me at: **yourmail@gmail.com** (you can replace)
+- 🎧 When not coding, I love listening to music & exploring tech 💙
 
-🔐 JWT Auth, Cookies, Sessions
+---
 
-Tools & Others
+### ⚙️ Tech Stack
 
-💻 Git & GitHub
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-🧰 Postman
+---
 
-🌐 REST APIs
+### 📈 GitHub Stats
 
-🐙 GitHub Actions (beginner level)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NehaChaudhary&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NehaChaudhary&theme=radical" width="47%" />
+</p>
 
-🏗️ Current Focus
+---
 
-Mastering Advanced React
+### 🐍 Contribution Snake
 
-Building real full-stack MERN projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-Preparing for placements
+---
 
-Working on React + Tailwind + Node apps
+### 🌐 Connect With Me
 
-📊 GitHub Stats & Contribution Graphs
-🔥 Contribution Graph
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/NehaChaudhary">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-⚡ GitHub Stats
-<div align="center">
+---
 
-</div>
-🌱 Projects I'm Building
-🔥 MERN Projects (Ongoing + Planned)
+### 🗨️ Quote of the Day
 
-🛒 Fully Custom Shopping Website – "Neha Chaudhary Store" (Full MERN stack)
+> _"First, solve the problem. Then, write the code."_ – John Johnson
 
-🎬 Movie App (with trailer, cast, filters, and details)
-
-🌤️ API-based Weather App using Axios
-
-👤 Authentication System (JWT, Protected Routes)
-
-📝 Notes App with CRUD + Context API
-
-🎭 Portfolio Website in React + Tailwind
-
-🎯 About Me
-
-🎓 B.Tech 6th Semester – AKTU
-
-💻 Passionate about building real applications
-
-🧠 Clear concepts of Hooks, Routing, Context, useEffect, API fetching
-
-⚡ Interested in full-stack product-level apps
-
-📌 Learning daily & pushing projects on GitHub
-
-🤝 Let’s Connect!
-<a href="https://github.com/NehaChaudhary"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white"> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+---
