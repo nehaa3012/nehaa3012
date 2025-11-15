@@ -27,7 +27,7 @@
 - ⚡ Learning **advanced React**, backend architectures & API integrations
 - 🎯 Aim: Become a proficient full-stack MERN developer
 - 💬 Ask me about **React, Tailwind, MERN, APIs, Routing, JWT Auth**
-- 📫 Email: *you can add yours here*
+- 📫 Email: nehach782@gmail.com
 - 🎵 I code while listening to music 😄
 
 ---
