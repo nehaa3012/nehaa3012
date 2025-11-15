@@ -21,7 +21,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 B.Tech CSE — 6th Semester, AKTU  
+- 🎓 B.Tech CSE — 7th Semester, AKTU  
 - 🚀 Building full-stack projects using **React, Node.js, Express & MongoDB**
 - 🎬 Working on large projects like: **Movie App, Shopping Website, Auth System**
 - ⚡ Learning **advanced React**, backend architectures & API integrations
