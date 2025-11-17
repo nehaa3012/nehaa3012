@@ -128,6 +128,6 @@
 
 ## 🗨️ Quote of the Day
 
-> _"Great developers are created by consistency, not talent."_
+>__"Great developers are created by consistency, not talent."__
 
 ---
