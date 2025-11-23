@@ -94,6 +94,7 @@
 ### 🚀 MERN Projects I'm Building
 | Project | Description | Tech |
 |--------|-------------|------|
+| **📝 Full-Stack Blog Application** | Post creation, comments, likes, categories, auth | MERN, JWT, Cloudinary |
 | **🛒 Shopping Website – "Neha Store"** | Full e-commerce MERN app | React, Node, MongoDB |
 | **🎬 Movie App** | Trailer, cast, details, trending | TMDB API, React, Routing |
 | **🌤 Weather App** | API-based weather tracking | Axios, React |
