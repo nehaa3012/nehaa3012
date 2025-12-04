@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">Hey there, I'm Neha Chaudhary 👋</h1>
+<h1 align="center">HEY THERE, I'M NEHA CHAUDHARY 👋</h1>
 <h3 align="center">🚀 MERN Stack Developer | React Enthusiast | Learning Full-Stack Development</h3>
 
 ---
