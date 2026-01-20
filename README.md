@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **B.Tech CSE (7th Semester)** — AKTU  
+- 🎓 **B.Tech CSE (8th Semester)** — AKTU  
 - 🚀 Full-stack developer focused on **scalable & real-world applications**
 - 🧠 Built complex projects like **BitMaster (LeetCode Clone)** & **PrimeCart**
 - ⚡ Strong in **DSA, APIs, authentication & system design basics**
