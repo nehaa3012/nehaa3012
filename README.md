@@ -4,14 +4,6 @@
 🚀 Full-Stack MERN & Next.js Developer | Problem Solver | Building Scalable Web Apps
 </h3>
 
-<p align="center">
-  <img src="https://i.imgur.com/DPVM1yO.gif" width="800" alt="banner" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nehaa3012&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
